@@ -1,4 +1,6 @@
-      # Shelan Debesai
+# Shelan Debesai  
+*shelan@uw.edu*  
+*206-947-1842*
 
 ## Work & Volunteer Experience
 #### Community Health Consultant/Internship, Ministry of Health Eritrea, Asmara Eritrea  
