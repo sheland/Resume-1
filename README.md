@@ -37,3 +37,13 @@ January 2011-April 2013
 * Worked in Maternity home to give weekly health education classes about danger signs of pregnancy, birth, postpartum, nutrition and family planning methods.
 * Organized a 3-day conference with Peace Corps volunteers, which trained 25 farm managers that work with migrant workers to deliver HIV/AIDS education and intervention.
 * Facilitated a billiard tournament to promote behavior changes in sexual habits and HIV/AIDS education among 60 high-risk men.
+
+## Education  
+#### MPH, Loma Linda University School of Public Health  
+Loma Linda, CA  
+Coverdell Fellows Program  
+September 2014-June 2016
+
+#### B.S. University of Washington. Public Health, Minor in Geography  
+Seattle, WA  
+September 2005-June 2010
