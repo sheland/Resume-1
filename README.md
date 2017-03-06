@@ -12,4 +12,11 @@ September 2015-January 2016
 * Collected qualitative & quantitative data from focus groups, surveys and interviews.
 * Analyzed data to produce an evaluation report for community-based partners.
 
+Graduate Student Researcher, International Institute of Rural Reconstruction (IIRR), Guinayangan, Philippines  
+July 2015–August 2015  
+* Evaluated daycare programs in the areas of gardening, nutrition education & water sanitation practices.
+*  Conducted literature review on evidence-based programs and practices.
+*  Analyzed data to produce findings, conclusion and next steps from focus group discussions and key informant interviews with evaluation team.
+
+
 
