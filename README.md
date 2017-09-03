@@ -3,6 +3,14 @@
 >*206-947-1842*
 
 ## Work & Volunteer Experience
+
+#### Case Manager, PSKS, Seatle  
+April 2017-Present 
+* Create individualized support plans for participants. 
+* Conduct intakes and connect participants to community resources.
+* Collect and input data in Homeless Management Information System for PSKS' services.
+
+
 #### Community Health Consultant/Internship, Ministry of Health Eritrea, Asmara Eritrea  
 June 2016-August 2016  
 * Conducted a qualitative process evaluation of a family planning project in four communities in Asmara.
