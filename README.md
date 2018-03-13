@@ -1,4 +1,4 @@
-# Shelan Debesai  
+# S.J Debesai  
 >*shelan@uw.edu*  
 >*206-947-1842*
 
@@ -6,7 +6,7 @@
 
 #### Case Manager, PSKS, Seatle  
 April 2017-Present 
-* Create individualized support plans for participants. 
+* Create individualized support plans for 20 participants. 
 * Conduct intakes and connect participants to community resources.
 * Collect and input data in Homeless Management Information System for PSKS' services.
 
@@ -15,7 +15,7 @@ April 2017-Present
 June 2016-August 2016  
 * Conducted a qualitative process evaluation of a family planning project in four communities in Asmara.
 * Trained 22 community health workers on the content of the new curriculum and facilitation skills.
-* Created promotional material to recruit community health workers.
+* Created promotional material such as posters and brochures to recruit community health workers.
 
 #### STD Prevention Programs/Evaluation Intern, California Family Health Council, Los Angeles  
 September 2015-January 2016  
