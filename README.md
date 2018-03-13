@@ -63,7 +63,7 @@ September 2005-June 2010
 English, Tigrinya, Spanish 
 
 ## Computer Programming Experience 
-Intro to Data Analytics course at General Assembly
-Intro to HTML/CSS course at Galvanize 
-"Learn Ruby" at codecademy.com
+* Intro to Data Analytics course at General Assembly
+* Intro to HTML/CSS course at Galvanize 
+* "Learn Ruby" at codecademy.com
 
