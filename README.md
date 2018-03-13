@@ -1,6 +1,5 @@
 # S.J Debesai  
 >*shelan@uw.edu*  
->*206-947-1842*
 
 ## Work & Volunteer Experience
 
@@ -62,3 +61,9 @@ September 2005-June 2010
 
 ## Languages  
 English, Tigrinya, Spanish 
+
+## Computer Programming Experience 
+Intro to Data Analytics course at General Assembly
+Intro to HTML/CSS course at Galvanize 
+"Learn Ruby" at codecademy.com
+
