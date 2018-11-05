@@ -1,7 +1,7 @@
 # S.J Debesai  
 >*shelandebesai@gmail.com*  
 
-## Obejective 
+## Objective 
 Seeking an exciting internship opportunity in the technology industry to utilize and enhance my skills in software development
 
 ## Work & Volunteer Experience
