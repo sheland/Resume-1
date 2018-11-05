@@ -1,13 +1,20 @@
 # S.J Debesai  
->*shelan@uw.edu*  
+>*shelandebesai@gmail.com*  
+
+## Obejective 
+Seeking an exciting internship opportunity in the technology industry to utilize and enhance my skills in software development
 
 ## Work & Volunteer Experience
 
+#### Student, Ada Developer's Academy, Seatle 
+August 2018 - Present 
+* Learning full-stack web development as an Ada student: Ruby, Rails, JavaScript, and HTML/CSS.
+
 #### Case Manager, PSKS, Seatle  
-April 2017-Present 
-* Create individualized support plans for 20 participants. 
-* Conduct intakes and connect participants to community resources.
-* Collect and input data in Homeless Management Information System for PSKS' services.
+April 2017-August 2018 
+* Created individualized support plans for 95 participants. 
+* Conducted intakes and connect participants to community resources.
+* Collected and input data in Homeless Management Information System for PSKS' services.
 
 
 #### Community Health Consultant/Internship, Ministry of Health Eritrea, Asmara Eritrea  
@@ -25,8 +32,8 @@ September 2015-January 2016
 #### Graduate Student Researcher, International Institute of Rural Reconstruction (IIRR), Guinayangan, Philippines  
 July 2015–August 2015  
 * Evaluated daycare programs in the areas of gardening, nutrition education & water sanitation practices.
-*  Conducted literature review on evidence-based programs and practices.
-*  Analyzed data to produce findings, conclusion and next steps from focus group discussions and key informant interviews with evaluation team.
+* Conducted literature review on evidence-based programs and practices.
+* Analyzed data to produce findings, conclusion and next steps from focus group discussions and key informant interviews with evaluation team.
 
 #### Program Support as Coverdell Fellow, Loma Linda University, Community-Academic Partners in Service (CAPS)  
 January 2015-June 2015  
