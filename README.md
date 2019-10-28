@@ -1,7 +1,7 @@
 # Shelan Debesai  
->*shelandebesai@gmail.com* 
+*shelandebesai@gmail.com* 
 
-[LinkedIn Profile](https://www.linkedin.com/in/s-j-debesai/)
+ [LinkedIn Profile](https://www.linkedin.com/in/s-j-debesai/)
 
 ## Professional Summary 
 Full-stack developer and career changer leveraging a background in Public Health to apply field tested research and program design skills to building usable, engaging web and mobile applications. 
