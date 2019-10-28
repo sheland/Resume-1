@@ -1,5 +1,7 @@
 # Shelan Debesai  
->*shelandebesai@gmail.com*  
+>*shelandebesai@gmail.com* 
+
+[LinkedIn Profile](https://www.linkedin.com/in/s-j-debesai/)
 
 ## Professional Summary 
 Full-stack developer and career changer leveraging a background in Public Health to apply field tested research and program design skills to building usable, engaging web and mobile applications. 
@@ -18,7 +20,7 @@ Developed a language learning mobile application to help users write Tigrinya ch
 Betsy | 2018 
 Participated in a team project where I helped create an e-commerce website. 
 * Contributions: Frontend Design, UI features 
-* Tools: Ruby on Rails, Atom, Git, GitHub, Trello, Heroku _______________________________________________________________________________________
+* Tools: Ruby on Rails, Atom, Git, GitHub, Trello, Heroku 
 
 ## Experience Highlights 
 
