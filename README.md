@@ -14,10 +14,12 @@ Full-stack developer and career changer leveraging a background in Public Health
 
 ## Selected Projects
 [LearnTigrinya](https://github.com/sheland/Capstone-LearnTigrinya) | 2019 
+
 Developed a language learning mobile application to help users write Tigrinya characters for a month-long individual project
 * Tools: React Native, JavaScript, Google Firebase, Atom, Git, Node.js 
 
 [Betsy](https://github.com/sheland/betsy)| 2018 
+
 Participated in a team project where I helped create an e-commerce website. 
 * Contributions: Frontend Design, UI features 
 * Tools: Ruby on Rails, Atom, Git, GitHub, Trello, Heroku 
