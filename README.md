@@ -1,76 +1,55 @@
-# S.J Debesai  
+# Shelan Debesai  
 >*shelandebesai@gmail.com*  
 
-## Objective 
-Seeking an exciting internship opportunity in the technology industry to utilize and enhance my skills in software development
+## Professional Summary 
+Full-stack developer and career changer leveraging a background in Public Health to apply field tested research and program design skills to building usable, engaging web and mobile applications. 
 
-## Work & Volunteer Experience
+## Technical Skills
+* Proficient Languages: JavaScript, Ruby, HTML, CSS3
+* Frameworks & Libraries: React, React Native, Ruby on Rails, Bootstrap, jQuery
+* Design: MVC, Object-Oriented Design, Object Oriented Programming (OOP), Single Page Application (SPA)
+* Tools: Git, Gitlab, Heroku, Trello, Sourcetree 
 
-#### Student, Ada Developer's Academy, Seatle 
-August 2018 - Present 
-* Learning full-stack web development as an Ada student: Ruby, Rails, JavaScript, and HTML/CSS.
+## Selected Projects
+Learn Tigrinya | 2019 
+Developed a language learning mobile application to help users write Tigrinya characters for a month-long individual project
+* Tools: React Native, JavaScript, Google Firebase, Atom, Git, Node.js 
 
-#### Case Manager, PSKS, Seatle  
-April 2017-August 2018 
-* Created individualized support plans for 95 participants. 
-* Conducted intakes and connect participants to community resources.
+Betsy | 2018 
+Participated in a team project where I helped create an e-commerce website. 
+* Contributions: Frontend Design, UI features 
+* Tools: Ruby on Rails, Atom, Git, GitHub, Trello, Heroku _______________________________________________________________________________________
+
+## Experience Highlights 
+
+#### Software Engineer Intern, Getty Images
+Seattle, WA
+January 2019 – July 2019	 
+* Fixed bugs on Getty’s end-user Contributor mobile application 
+* Contributed to a tool that collates performance data for Getty’s request-for-content process
+* Collaborated with UX team on redesign of internal metrics dashboard
+
+#### Case Manager, PSKS
+Seattle, WA
+2017-2019
+
+* Created and managed individualized support plans for 120 homeless young adults from ages 18-29
+* Assessed, advocated and referred participants to housing programs, legal services, chemical dependency treatment, counseling services, employment programs 
 * Collected and input data in Homeless Management Information System for PSKS' services.
 
-
-#### Community Health Consultant/Internship, Ministry of Health Eritrea, Asmara Eritrea  
-June 2016-August 2016  
-* Conducted a qualitative process evaluation of a family planning project in four communities in Asmara.
-* Trained 22 community health workers on the content of the new curriculum and facilitation skills.
-* Created promotional material such as posters and brochures to recruit community health workers.
-
-#### STD Prevention Programs/Evaluation Intern, California Family Health Council, Los Angeles  
-September 2015-January 2016  
-* Conducted an evaluation on a sexual/reproductive health education project.  
-* Collected qualitative & quantitative data from focus groups, surveys and interviews.
-* Analyzed data to produce an evaluation report for community-based partners.
-
-#### Graduate Student Researcher, International Institute of Rural Reconstruction (IIRR), Guinayangan, Philippines  
-July 2015–August 2015  
-* Evaluated daycare programs in the areas of gardening, nutrition education & water sanitation practices.
-* Conducted literature review on evidence-based programs and practices.
-* Analyzed data to produce findings, conclusion and next steps from focus group discussions and key informant interviews with evaluation team.
-
-#### Program Support as Coverdell Fellow, Loma Linda University, Community-Academic Partners in Service (CAPS)  
-January 2015-June 2015  
-*  Managed logistics in preparation of “Summer Gateway to the Health Professions” program. 
-*  Tracked and maintained contacts of volunteers who signed up for CAPS’ programs. 
-*  Optimized CAPS’ social media accounts to increase awareness of events. 
-
-#### Community Development Worker, El Sol Neighborhood Educational Center, San Bernardino  
-October 2014-June 2015  
-* Created a standardized easy to use master manual for community health workers trainers with Service Learning Project team.
-*  Translated curriculum from Spanish to English.
-*  Prepared logic model & logical framework for master manual.
-
-#### Community Health Development Volunteer, Peace Corps, Madriz, Nicaragua  
-January 2011-April 2013  
-* Designed and administered 70 surveys & created an analysis of family planning methods in the urban zone and rural communities.
-* Taught 794 adolescents from age 9-18 about reproductive health twice a week in and  outside of classroom setting. 
-* Worked with Ministry of Health (MINSA) to implement health fairs, community outreach concerning local health concerns such as importance of institutional births, cervical cancer, dengue fever, personal hygiene and participated in vaccination campaigns.
-* Worked in Maternity home to give weekly health education classes about danger signs of pregnancy, birth, postpartum, nutrition and family planning methods.
-* Organized a 3-day conference with Peace Corps volunteers, which trained 25 farm managers that work with migrant workers to deliver HIV/AIDS education and intervention.
-* Facilitated a billiard tournament to promote behavior changes in sexual habits and HIV/AIDS education among 60 high-risk men.
-
 ## Education  
+
+#### Ada Developers Academy
+Full-Stack Software Development
+August 2018 - July 2019 
+
 #### MPH, Loma Linda University School of Public Health  
 Loma Linda, CA  
 Coverdell Fellows Program  
-September 2014-June 2016
+2016
 
 #### B.S. University of Washington. Public Health, Minor in Geography  
 Seattle, WA  
-September 2005-June 2010
+2010
 
-## Languages  
-English, Tigrinya, Spanish 
-
-## Computer Programming Experience 
-* Intro to Data Analytics course at General Assembly
-* Intro to HTML/CSS course at Galvanize 
-* "Learn Ruby" at codecademy.com
 
